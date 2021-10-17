@@ -332,7 +332,8 @@ int count = 1;
 g.matrix();
 
  while(check != 123){
-//system("clear");
+system("clear");
+
 w:
 e:
 g.Print();
